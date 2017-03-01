@@ -1,1 +1,7 @@
 //
+pre {
+ background-color:black;
+ color:white;
+ border-style:inset;
+ font-family: "Andale Mono", AndaleMono, monospace;
+}
